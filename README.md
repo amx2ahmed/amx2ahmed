@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning Nentwork(CCNA,CCNP)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [...](https://www.linkedin.com/in/ahmed-mohamed-59845428a/)
+- 📫 How to reach me [linkedin](https://www.linkedin.com/in/ahmed-mohamed-59845428a/)
 - 😄 Pronouns: he
 - ⚡ Fun fact: sad😂
 
