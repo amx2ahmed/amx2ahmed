@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/ahmed-mohamed-59845428a/)
 - 😄 Pronouns: he
-- ⚡ Fun fact: sad😂
 
 <!---
 amx2ahmed/amx2ahmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
