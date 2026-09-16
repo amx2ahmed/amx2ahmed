@@ -46,7 +46,9 @@ Location     Cairo, Egypt
 
 - **100+ hands-on cybersecurity labs**
 - **Top 3% TryHackMe learner**
-- **IEEE Cybersecurity Vice Head**
+- **Cybersecurity Content Creator at pwn_sec** - May 2025 to Present
+- **IEEE Cybersecurity Vice Head** - Jan 2026 to Present
+- **Mentor Intern at ADA** - September 2026 to Present
 - Built and maintained local virtual labs with Kali Linux, Metasploitable, and vulnerable environments
 - Published writeups covering web security, authentication flaws, NoSQL injection, and vulnerable machines
 
