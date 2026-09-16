@@ -79,12 +79,14 @@ Location     Cairo, Egypt
 
 ## GitHub Activity
 
-<div align="center">
+I use GitHub to keep my portfolio, security reports, and practical projects organized and public.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=amx2ahmed&show_icons=true&theme=gruvbox&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amx2ahmed&layout=compact&theme=gruvbox&hide_border=true" />
-
-</div>
+| Area | Repositories / Work |
+| --- | --- |
+| Portfolio | [amx2ahmed.github.io](https://github.com/amx2ahmed/amx2ahmed.github.io) |
+| Profile | [amx2ahmed](https://github.com/amx2ahmed/amx2ahmed) |
+| Security Writeups | [Reports Hub](https://amx2ahmed.github.io/reports-blog/) |
+| Full-stack Practice | Online delivery system frontend and backend projects |
 
 ---
 
