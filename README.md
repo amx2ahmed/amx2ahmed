@@ -97,6 +97,7 @@ I use GitHub to keep my portfolio, security reports, and practical projects orga
 - LinkedIn: [Ahmed Mohamed](https://www.linkedin.com/in/ahmed-mohamed-59845428a/)
 - Medium: [@AMX2_](https://medium.com/@AMX2_)
 - TryHackMe: [Amx2](https://tryhackme.com/p/Amx2)
+- YouTube: [@Pwn_Sec](https://www.youtube.com/@Pwn_Sec)
 
 ---
 
