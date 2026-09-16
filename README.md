@@ -10,6 +10,7 @@ I break down vulnerable systems, document the process, and turn security labs in
 [![Reports](https://img.shields.io/badge/Security_Writeups-Reports-f2c66d?style=for-the-badge&logo=medium&logoColor=101114)](https://amx2ahmed.github.io/reports-blog/)
 [![Medium](https://img.shields.io/badge/Medium-AMX2-ffffff?style=for-the-badge&logo=medium&logoColor=000000)](https://medium.com/@AMX2_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Mohamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohamed-59845428a/)
+[![YouTube](https://img.shields.io/badge/YouTube-Pwn__Sec-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Pwn_Sec)
 
 </div>
 
